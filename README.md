@@ -3,8 +3,6 @@
 </h1>
 
 
----
-
 ## 🌟 About Me
 
 - 📊 Passionate about analyzing data and building machine learning models.
